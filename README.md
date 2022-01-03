@@ -3,6 +3,8 @@
 대한민국 방방곳곳 맛집자랑 SNS
 
 ## 프로젝트 구성 안내
+![](https://images.velog.io/images/abcd8637/post/659d76bd-e558-4789-a5bc-9c392be0660c/Jan-04-2022%2008-35-03.gif)
+
 배포 링크: https://elice-kdt-sw-1st-vm02.koreacentral.cloudapp.azure.com/
 
 ### 1. 프로젝트 소개
