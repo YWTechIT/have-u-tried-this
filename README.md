@@ -3,6 +3,7 @@
 대한민국 방방곳곳 맛집자랑 SNS
 
 ## 프로젝트 구성 안내
+배포 링크: https://elice-kdt-sw-1st-vm02.koreacentral.cloudapp.azure.com/
 
 ### 1. 프로젝트 소개
 
